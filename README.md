@@ -1,5 +1,3 @@
-# WIX-WEBSITES
-
 # WIIX WEBSITES
 
 Hello here are my sample websites that I created on WIX.
